@@ -11,11 +11,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaferzazi&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaferzazi" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/moazr77" target="blank"><img src="https://img.shields.io/twitter/follow/moazr77?logo=twitter&style=for-the-badge" alt="moazr77" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/zakaria_0.75/" target="blank"><img src="https://img.shields.io/instagram/follow/zakaria_0.75?logo=instagram&style=for-the-badge" alt="zakaria_0.75" /></a> </p>
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **moazsaid7586@gmail.com**
+- 📫 How to reach me **zakariaferzazi24.04.2000@gmail.com**
 
 - 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1TyatrSOYSd7-fVYKfSu4HiqpECmd2l6-/view?usp=sharing)
 
