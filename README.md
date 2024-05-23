@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariaferzazi&label=Profile%20views&color=0e75b6&style=flat" alt="zakariaferzazi" /> </p>
 
 
-<p align="left"> <a href="https://www.instagram.com/zakaria_0.75/" target="blank"><img src="https://www.edigitalagency.com.au/wp-content/uploads/new-small-Instagram-logo-full-colour-png-184x184-pixels.png" alt="zakaria_0.75" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/zakaria_0.75/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="15" height="15" alt="zakaria_0.75" /></a> </p>
 
 - 💬 Ask me about **Flutter**
 
